@@ -63,6 +63,7 @@ These provide **full control**, no revenue-share fees (beyond your infrastructur
 ### 🛠️ Additional Open-Source Tools
 - **Payum** — Flexible PHP payment integration library.
 - **SHKeeper** — Self-hosted crypto payment processor.
+- **AgentServices** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
 - **PipraPay** — Plugin-based payment automation platform.
 - **Zoneless** — Open-source alternative for Stripe Connect-style payouts.
 - Various SDKs and e-commerce integrations (e.g., Spree Commerce extensions).
