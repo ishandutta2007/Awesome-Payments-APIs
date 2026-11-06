@@ -64,6 +64,7 @@ These provide **full control**, no revenue-share fees (beyond your infrastructur
 - **Payum** — Flexible PHP payment integration library.
 - **SHKeeper** — Self-hosted crypto payment processor.
 - **AgentServices** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local buyer-side x402 payment runtime and stdio MCP tools for AI agents, with bounded preparation and status/receipts; Apple Silicon macOS and Node 24 only.
 - **PipraPay** — Plugin-based payment automation platform.
 - **Zoneless** — Open-source alternative for Stripe Connect-style payouts.
 - Various SDKs and e-commerce integrations (e.g., Spree Commerce extensions).
