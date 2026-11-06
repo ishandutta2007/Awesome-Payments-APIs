@@ -23,13 +23,16 @@ Popular proprietary platforms with managed infrastructure, global reach, and dev
 
 | Product | Description | Pricing | Free Tier Limit | Valuation / Revenue |
 |---------|-------------|---------|-----------------|---------------------|
-| **[WePay](https://wepay.com)** | Focused on platforms and marketplaces with flexible payouts. | Custom per platform (typically ~2.9% + 30¢) | No free tier (pay-as-you-go) | ~$500B (JPMorgan Chase) |
-| **[Stripe](https://stripe.com)** | Developer-first platform for cards, subscriptions, marketplaces, and global payments. Excellent APIs, Billing, Connect, and fraud tools (Radar).<grok-card data-id="bb64c3" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card> | ~2.9% + 30¢ per transaction | No free tier (pay-as-you-go) | ~$65B |
-| **[PayPal](https://paypal.com)** | Trusted for e-commerce, international transactions, and one-click payments. | ~3.49% + 49¢ per transaction | No free tier (pay-as-you-go) | ~$60B |
+| **[Adyen](https://adyen.com)** | Global enterprise payment platform with unified commerce and direct local acquiring. | Interchange++ (typically ~€0.11 / $0.12 processing fee + card scheme/interchange) | No monthly fee; pay-as-you-go | ~$48B (Market Cap) |
 | **[Braintree](https://braintreepayments.com)** | (PayPal-owned) Unified API supporting cards, PayPal, Venmo, Apple Pay. Strong for mobile and marketplaces.<grok-card data-id="a6e764" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card> | ~2.59% + 49¢ per transaction | No free tier (pay-as-you-go) | ~$60B (PayPal owned) |
+| **[Paddle](https://paddle.com)** | Merchant of Record (MoR) platform handling global checkout, billing, local sales tax/VAT, and SaaS subscriptions. | 5% + 50¢ per transaction | No monthly fee (pay-as-you-go) | ~$1.4B |
+| **[PayPal](https://paypal.com)** | Trusted for e-commerce, international transactions, and one-click payments. | ~3.49% + 49¢ per transaction | No free tier (pay-as-you-go) | ~$60B |
+| **[Razorpay](https://razorpay.com)** | Leading payment gateway and neo-banking platform for India and emerging markets, with full stack UPI, card, and billing APIs. | ~2% + GST per standard domestic transaction | Free account setup & maintenance (no AMC) | ~$7.5B |
 | **[Square Payments](https://squareup.com)** | Ideal for in-person + online sales with hardware support. | ~2.9% + 30¢ (online), 2.6% + 10¢ (in-person) | Free basic POS app | ~$35B (Block) |
+| **[Stripe](https://stripe.com)** | Developer-first platform for cards, subscriptions, marketplaces, and global payments. Excellent APIs, Billing, Connect, and fraud tools (Radar).<grok-card data-id="bb64c3" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card> | ~2.9% + 30¢ per transaction | No free tier (pay-as-you-go) | ~$65B |
+| **[WePay](https://wepay.com)** | Focused on platforms and marketplaces with flexible payouts. | Custom per platform (typically ~2.9% + 30¢) | No free tier (pay-as-you-go) | ~$500B (JPMorgan Chase) |
 
-**Other notables**: Adyen, Authorize.net, Paddle (Merchant of Record), Shopify Payments.
+**Other notables**: Authorize.net, Lemon Squeezy (Stripe-owned MoR), Midtrans, Shopify Payments.
 
 *Note: SaaS platforms typically handle PCI compliance, fraud prevention, and scaling.*
 
@@ -41,30 +44,45 @@ These provide **full control**, no revenue-share fees (beyond your infrastructur
 
 ### 🌟 Featured Projects
 
+- **[Autumn](https://useautumn.com)** [![GitHub stars](https://img.shields.io/github/stars/useautumn/autumn?style=social&color=white)](https://github.com/useautumn/autumn/stargazers) — Open-source pricing, billing, and entitlement engine sitting between Stripe and your application. Decouples complex billing models, usage metering, and customer access limits.
+  - GitHub: [useautumn/autumn](https://github.com/useautumn/autumn)
+  - License: Apache 2.0
+  - Best for: Developer-friendly entitlements and dynamic SaaS pricing.
+
+- **[BTCPay Server](https://btcpayserver.org)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) — Self-hosted, fee-free Bitcoin & crypto payment processor. Secure, private, and censorship-resistant.<grok-card data-id="3534af" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+  - GitHub: [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
+
 - **[Hyperswitch](https://hyperswitch.io)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) — **Top recommendation**. Open-source payments orchestrator with a unified API to 300+ processors. Supports smart routing, PCI compliance, tokenization, payouts, fraud tools, and cost optimization. Self-host or use hosted option.<grok-card data-id="c9a20f" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
   - License: Apache 2.0
   - Best for: Production-grade payments with multi-processor flexibility.
-
-- **[Lago](https://getlago.com)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering & usage-based billing. Supports subscriptions, hybrid pricing, invoicing, and revenue analytics.<grok-card data-id="23928b" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-  - GitHub: [getlago/lago](https://github.com/getlago/lago)
-
-- **[BTCPay Server](https://btcpayserver.org)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) — Self-hosted, fee-free Bitcoin & crypto payment processor. Secure, private, and censorship-resistant.<grok-card data-id="3534af" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
-  - GitHub: [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
 - **[Kill Bill](https://killbill.io)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Mature subscription billing & payments platform. Handles complex recurring, usage-based, invoicing, and extensible via plugins.<grok-card data-id="86086c" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [killbill/killbill](https://github.com/killbill/killbill)
   - License: Apache 2.0
   - Best for: Enterprise-level billing logic.
 
+- **[Lago](https://getlago.com)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering & usage-based billing. Supports subscriptions, hybrid pricing, invoicing, and revenue analytics.<grok-card data-id="23928b" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+  - GitHub: [getlago/lago](https://github.com/getlago/lago)
+
+- **[OpenMeter](https://openmeter.io)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers) — Open-source real-time usage metering and billing infrastructure for AI, APIs, and cloud services. Powers high-frequency consumption tracking and automated invoicing.
+  - GitHub: [openmeterio/openmeter](https://github.com/openmeterio/openmeter)
+  - License: Apache 2.0
+  - Best for: High-throughput event ingestion and AI token-based billing.
+
+- **[Polar](https://polar.sh)** [![GitHub stars](https://img.shields.io/github/stars/polarsource/polar?style=social&color=white)](https://github.com/polarsource/polar/stargazers) — Open-source Merchant of Record and developer billing platform designed for SaaS, digital products, and indie developers with built-in global tax handling.
+  - GitHub: [polarsource/polar](https://github.com/polarsource/polar)
+  - License: Apache 2.0
+  - Best for: Open-source monetization, subscriptions, and digital product sales.
+
 - **[UniBee](https://unibee.dev)** [![GitHub stars](https://img.shields.io/github/stars/UniBee-Billing/unibee?style=social&color=white)](https://github.com/UniBee-Billing/unibee/stargazers) — Open-source subscription billing tailored for SaaS and fintech.
 
 ### 🛠️ Additional Open-Source Tools
-- **Payum** — Flexible PHP payment integration library.
-- **SHKeeper** — Self-hosted crypto payment processor.
-- **AgentServices** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
 - **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local buyer-side x402 payment runtime and stdio MCP tools for AI agents, with bounded preparation and status/receipts; Apple Silicon macOS and Node 24 only.
+- **AgentServices** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
+- **Payum** — Flexible PHP payment integration library.
 - **PipraPay** — Plugin-based payment automation platform.
+- **SHKeeper** — Self-hosted crypto payment processor.
 - **Zoneless** — Open-source alternative for Stripe Connect-style payouts.
 - Various SDKs and e-commerce integrations (e.g., Spree Commerce extensions).
 
