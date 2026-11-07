@@ -44,42 +44,42 @@ These provide **full control**, no revenue-share fees (beyond your infrastructur
 
 ### 🌟 Featured Projects
 
-- **[Autumn](https://useautumn.com)** [![GitHub stars](https://img.shields.io/github/stars/useautumn/autumn?style=social&color=white)](https://github.com/useautumn/autumn/stargazers) — Open-source pricing, billing, and entitlement engine sitting between Stripe and your application. Decouples complex billing models, usage metering, and customer access limits.
+- **[Autumn](https://useautumn.com)** [![GitHub_Stars](https://img.shields.io/github/stars/useautumn/autumn?style=social&color=white)](https://github.com/useautumn/autumn/stargazers) — Open-source pricing, billing, and entitlement engine sitting between Stripe and your application. Decouples complex billing models, usage metering, and customer access limits.
   - GitHub: [useautumn/autumn](https://github.com/useautumn/autumn)
   - License: Apache 2.0
   - Best for: Developer-friendly entitlements and dynamic SaaS pricing.
 
-- **[BTCPay Server](https://btcpayserver.org)** [![GitHub stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) — Self-hosted, fee-free Bitcoin & crypto payment processor. Secure, private, and censorship-resistant.<grok-card data-id="3534af" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[BTCPay Server](https://btcpayserver.org)** [![GitHub_Stars](https://img.shields.io/github/stars/btcpayserver/btcpayserver?style=social&color=white)](https://github.com/btcpayserver/btcpayserver/stargazers) — Self-hosted, fee-free Bitcoin & crypto payment processor. Secure, private, and censorship-resistant.<grok-card data-id="3534af" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver)
 
-- **[Hyperswitch](https://hyperswitch.io)** [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) — **Top recommendation**. Open-source payments orchestrator with a unified API to 300+ processors. Supports smart routing, PCI compliance, tokenization, payouts, fraud tools, and cost optimization. Self-host or use hosted option.<grok-card data-id="c9a20f" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[Hyperswitch](https://hyperswitch.io)** [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers) — **Top recommendation**. Open-source payments orchestrator with a unified API to 300+ processors. Supports smart routing, PCI compliance, tokenization, payouts, fraud tools, and cost optimization. Self-host or use hosted option.<grok-card data-id="c9a20f" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [juspay/hyperswitch](https://github.com/juspay/hyperswitch)
   - License: Apache 2.0
   - Best for: Production-grade payments with multi-processor flexibility.
 
-- **[Kill Bill](https://killbill.io)** [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Mature subscription billing & payments platform. Handles complex recurring, usage-based, invoicing, and extensible via plugins.<grok-card data-id="86086c" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[Kill Bill](https://killbill.io)** [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) — Mature subscription billing & payments platform. Handles complex recurring, usage-based, invoicing, and extensible via plugins.<grok-card data-id="86086c" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [killbill/killbill](https://github.com/killbill/killbill)
   - License: Apache 2.0
   - Best for: Enterprise-level billing logic.
 
-- **[Lago](https://getlago.com)** [![GitHub stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering & usage-based billing. Supports subscriptions, hybrid pricing, invoicing, and revenue analytics.<grok-card data-id="23928b" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
+- **[Lago](https://getlago.com)** [![GitHub_Stars](https://img.shields.io/github/stars/getlago/lago?style=social&color=white)](https://github.com/getlago/lago/stargazers) — Open-source metering & usage-based billing. Supports subscriptions, hybrid pricing, invoicing, and revenue analytics.<grok-card data-id="23928b" data-type="citation_card" data-plain-type="render_inline_citation" ></grok-card>
   - GitHub: [getlago/lago](https://github.com/getlago/lago)
 
-- **[OpenMeter](https://openmeter.io)** [![GitHub stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers) — Open-source real-time usage metering and billing infrastructure for AI, APIs, and cloud services. Powers high-frequency consumption tracking and automated invoicing.
+- **[OpenMeter](https://openmeter.io)** [![GitHub_Stars](https://img.shields.io/github/stars/openmeterio/openmeter?style=social&color=white)](https://github.com/openmeterio/openmeter/stargazers) — Open-source real-time usage metering and billing infrastructure for AI, APIs, and cloud services. Powers high-frequency consumption tracking and automated invoicing.
   - GitHub: [openmeterio/openmeter](https://github.com/openmeterio/openmeter)
   - License: Apache 2.0
   - Best for: High-throughput event ingestion and AI token-based billing.
 
-- **[Polar](https://polar.sh)** [![GitHub stars](https://img.shields.io/github/stars/polarsource/polar?style=social&color=white)](https://github.com/polarsource/polar/stargazers) — Open-source Merchant of Record and developer billing platform designed for SaaS, digital products, and indie developers with built-in global tax handling.
+- **[Polar](https://polar.sh)** [![GitHub_Stars](https://img.shields.io/github/stars/polarsource/polar?style=social&color=white)](https://github.com/polarsource/polar/stargazers) — Open-source Merchant of Record and developer billing platform designed for SaaS, digital products, and indie developers with built-in global tax handling.
   - GitHub: [polarsource/polar](https://github.com/polarsource/polar)
   - License: Apache 2.0
   - Best for: Open-source monetization, subscriptions, and digital product sales.
 
-- **[UniBee](https://unibee.dev)** [![GitHub stars](https://img.shields.io/github/stars/UniBee-Billing/unibee?style=social&color=white)](https://github.com/UniBee-Billing/unibee/stargazers) — Open-source subscription billing tailored for SaaS and fintech.
+- **[UniBee](https://unibee.dev)** [![GitHub_Stars](https://img.shields.io/github/stars/UniBee-Billing/unibee?style=social&color=white)](https://github.com/UniBee-Billing/unibee/stargazers) — Open-source subscription billing tailored for SaaS and fintech.
 
 ### 🛠️ Additional Open-Source Tools
 - **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** — Local buyer-side x402 payment runtime and stdio MCP tools for AI agents, with bounded preparation and status/receipts; Apple Silicon macOS and Node 24 only.
-- **AgentServices** [![GitHub stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
+- **AgentServices** [![GitHub_Stars](https://img.shields.io/github/stars/vbkotecha/aiservices-api?style=social&color=white)](https://github.com/vbkotecha/aiservices-api/stargazers) — x402-paid API marketplace for autonomous agents. 54 services, 97 endpoints, 37 MCP tools. Crypto/market data with on-chain USDC payments via x402 protocol on Base. Pay-per-call with no subscriptions.
 - **Payum** — Flexible PHP payment integration library.
 - **PipraPay** — Plugin-based payment automation platform.
 - **SHKeeper** — Self-hosted crypto payment processor.
