@@ -119,6 +119,23 @@ Feel free to submit PRs to expand this list with more projects, features, or com
 
 ---
 
+## 💖 Support
+
+Thank you for checking out **Awesome Payments APIs**! If you find this repository helpful, please consider:
+- ⭐ **Starring** the repository to show support and boost visibility
+- 🍴 **Forking** the repository and contributing new tools, platforms, or improvements
+- 📢 **Sharing** it with friends, colleagues, or your developer network
+
+If you'd like to support the ongoing maintenance and curation of open-source resources, consider buying a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007):
+
+<div align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</div>
+
+---
+
 ## 🌟 Star History
 <div align="center">
 <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Payments-APIs&type=date&legend=bottom-right">
